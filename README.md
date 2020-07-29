@@ -1,4 +1,4 @@
-#Saawi
+Saawi
 ===================
 
 Saawi is a simple to-do app for the Codepath Fall 2020 Android Development Course.
