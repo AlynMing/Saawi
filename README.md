@@ -4,7 +4,7 @@ Saawi is an android app that allows building a todo list and basic todo items ma
 
 Submitted by: **Your Name Here**
 
-Time spent: 2 hours spent in total, setting up Android Studio took ~4-5 hours.
+Time spent: 2 hours.
 
 ## User Stories
 
