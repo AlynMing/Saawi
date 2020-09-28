@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Imgur Link: https://imgur.com/gallery/8z1pe5I
 
 <img src='CodePathApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
